@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facegram</string>
+
+    <string name="developer_name" translatable="false">Srivasthan J</string>
+    <string name="email" translatable="false">amsavarthan.a@gmail.com</string>
+
+</resources>
