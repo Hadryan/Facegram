@@ -1,4 +1,4 @@
-# Hify
+# Facegram
 
 <img src="https://github.com/lvamsavarthan/Hify/blob/master/preview.png">
 <br>
