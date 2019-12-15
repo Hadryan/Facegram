@@ -12,9 +12,6 @@
 Just a social app. This app is mostly completed but some bugs would be there.
 **google-services.json file has been deleted for security reasons. Place your google-services.json in /app folder**
 
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.amsavarthan.social.hify"><img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="30%"></a>
-</p>
 
 ## Available feautres
 
@@ -46,10 +43,6 @@ Just a social app. This app is mostly completed but some bugs would be there.
 
 Check out the cloud_functions folder for the code
 
-## Tutorial 
-Part - 1 : [Setting up Firebase CLI](https://youtu.be/-T-yGL1qRho)<br>
-Part - 2 : [Deploying to Firebase Cloud Functions](https://youtu.be/3fBiSJB-i_E)
-
 ## Screenshots
 
 <table>
@@ -73,15 +66,10 @@ Part - 2 : [Deploying to Firebase Cloud Functions](https://youtu.be/3fBiSJB-i_E)
 
 ## Developer
 
-This whole project is maintained only by **Amsavarthan Lv (me)**.<br>
+This whole project is maintained only by **Srivasthan J**.<br>
 If you like to contribute, please let me know
-<B>Email : amsavarthan.a@gmail.com</B>
+<B>Email : sridharjayaraman07@gmail.com</B>
 
-## If you like this project please consider donating
-By donating you help me to improve this project to next level and also buy me some coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UF2TDFHZAHELS&source=url
-)
 
 ## Credits
 
